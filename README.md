@@ -1,0 +1,2 @@
+# firstdjangoprog
+test django program
